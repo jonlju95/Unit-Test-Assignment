@@ -1,2 +1,4 @@
-# Test program
-Simple arrays, with jUnit tests
+# Unit test assignment
+Program with simple arrays for testing to learn JUnit 5.
+
+Made as part of my education
